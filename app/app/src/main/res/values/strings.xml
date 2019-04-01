@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Foodle</string>
+    <string name="login">LOGIN</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgotPassword">Forgot Password?</string>
+    <string name="signUpText">Sign Up</string>
+    <string name="signUp">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="weight">Weight (Kgs.)</string>
+    <string name="height">Height (cms.)</string>
+    <string name="date">Birth Date</string>
+    <string name="gender">Gender</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="navigation_drawer_open">Open Navigation Menu</string>
+    <string name="navigation_drawer_close">Close Navigation Menu</string>
+</resources>
